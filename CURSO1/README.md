@@ -31,6 +31,11 @@
 - Términos, herramientas y frameworks que utilizan los diseñadores de UX
 - Cómo planificar y ejecutar sprint de diseño, como colaborar en proyectos.
 - Contruir presencia profesional en línea. Portfolio.
-
-
 <br>
+---
+## Cronograma
+### Semana 1: Introducción al diseño de la exp. del usuario.
+### Semana 2: Términos, herramientas y frameworks comunes en el diseño de UX.
+### Semana 3: Participar en sprints de diseño.
+### Semana 4: Construir una presencia profesional.
+---
