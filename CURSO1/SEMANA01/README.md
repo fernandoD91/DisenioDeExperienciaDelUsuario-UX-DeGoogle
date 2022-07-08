@@ -10,3 +10,17 @@
  4. Cómo varían los trabajos de diseño de UX según la industria y el tamaño de la empresa y cómo empezar a trabajar en diseño de UX. 
  
  ---
+## [Aspectos básicos del diseño de la experiencia del usuario](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/lecture/OeyQC/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario)
+  - ### La experiencia de usuario es importante para los consumidores y las empresas.
+  - ### La **UX "experiencia de usuario"** es la forma que un usuario se siente cuando interactúa con un producto o lo experimenta.
+  - ### Para una buena experiencia de usuario, el producto debe ser:
+
+    1. **Fácil de usar:** diseño, estructura y la finalidad del producto deben estar claros para todos.<br> Un diseñador de UX debe pensar en las distintas personas que usaran el producto, por ejemplo personas con discapacidad o personas que viven en distintas condiciones.
+
+    2. **Equitativo**: Esto significa que el diseño sea útil y accesible para personas con diversas discapacidades y  antecedentes. Tener en cuenta las necesidades de personas diferentes es muy importante.
+
+    3. **Agradable**: Los productos deben ser agradables al uso, crear una conexión positiva entre el usuario y el producto, para esto el diseñador UX tiene que tener en cuenta que piensa y siente el usuario. Para ello se realiza una _investigación_, se recopila pruebas de como el usuario experimenta al producto en tiempo real y se le pregunta al respecto.
+    4. **Útil**: Como cualquier ser humano necesitamos y queremos productos que resuelvan nuestros problemas.
+
+### Básicamente todo esto reduce a que si un usuario le gusta un producto, este lo recomendara a sus amigos, por lo cual la empresa tendrá mejores negocios, a su vez la compañía creadora del producto tendrá una buena impresión/imagen ante el cliente.<br>Todo este resulta un gran beneficio tanto para el consumidor como para las empresas.
+---
