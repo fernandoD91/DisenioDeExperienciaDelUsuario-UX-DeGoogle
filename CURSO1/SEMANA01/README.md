@@ -26,7 +26,7 @@
 ---
 <br>
 
-## [Trabajos en el campo de la experiencia del usuario](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/lecture/0yONp/trabajos-en-el-campo-de-la-experiencia-del-usuario)
+## [PARTE 3: Trabajos en el campo de la experiencia del usuario](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/lecture/0yONp/trabajos-en-el-campo-de-la-experiencia-del-usuario)
 
 
 ## Los diferentes roles dentro del diseño UX y Colegas de trabajo. ##
@@ -38,7 +38,9 @@
 - Son bastantes ingeniosos usan sus experiencias laborales y pasatiempos para implementarlo en los diseños.
 
 >diseño: Actividad creativa que tiene por fin proyectar objetos que sean útiles y estéticos.
+
 ### El diseño no es solo los aspectos estéticos de un producto. Hay Varios tipos de diseñadores en UX:<br>
+
 - **Diseñadores de interacción:** diseñan la experiencia del producto y como funciona. Conectan la necesidad de los usuarios y los objetivos comerciales con lo que es factible construir.
 - **Diseñadores visuales:** Centrados en como se vera el producto. Diseñan el logotipo, ilustraciones o iconos, deciden el color, tamaño de fuente o la disposición del producto.  
 - **Diseñadores movimiento:** piensan en que sienten el usuario al utilizar el producto y cómo crear transiciones suaves en la web.
@@ -48,10 +50,13 @@
 ### ***Diseñadores UX:*** Se centran en cómo interactúan los usuarios con el producto.
 <br>
 
-### colegas con que los un diseñador se relaciona en el ambiente laboral:
+### Colegas con que los un diseñador se relaciona en el ambiente laboral:
 - ***Investigadores UX:*** realizan estudios y entrevistas a los usuarios.
 - ***Luego están los escritores UX:*** se encargar de escribir textos claros en los productos y que sean intuitivos para el usuario.
 - ***Diseñadores de producción:*** Son el "puente" entre los diseñadores de interacción y los ingenieros, se encargan de que el diseño inicial y final coincidan con el material  y que cuenten con los recursos(texto, imágenes y especificaciones de diseño como el estilo, color, tamaño, y el espaciado de la fuente) la hora de entregarlo al equipo de ingeniería.
 - ***Ingenieros de diseño:*** traducen intención del diseño en una experiencia funcional, como una app.
 - ***Gerentes de programas UX:*** proponen una comunicación clara y oportuna, para que el proceso de construcción de un producto útil avance sin problemas de principio a fin.<br> define objetos y redacta planes de proyectos.
 ---
+---
+---
+<br>
