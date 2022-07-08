@@ -24,3 +24,34 @@
 
 ### Básicamente todo esto reduce a que si un usuario le gusta un producto, este lo recomendara a sus amigos, por lo cual la empresa tendrá mejores negocios, a su vez la compañía creadora del producto tendrá una buena impresión/imagen ante el cliente.<br>Todo este resulta un gran beneficio tanto para el consumidor como para las empresas.
 ---
+<br>
+
+## [Trabajos en el campo de la experiencia del usuario](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/lecture/0yONp/trabajos-en-el-campo-de-la-experiencia-del-usuario)
+
+
+## Los diferentes roles dentro del diseño UX y Colegas de trabajo. ##
+### Algunas características de los diseñadores UX:
+- Tienen curiosidad por la gente y como piensa.
+- Disfruta saber como usa la gente algún producto y como puede mejorarlo, más fáciles de usarlo.
+- Son empáticos,esto consiste en entender qué sienten o piensan los demás, esto es una parte importante de la UX. Básicamente diseñar para todos, pensar como se sentiría un usuario ante una situación dada.
+- Muchos aprende de manera autodidacta para adquirir las destrezas y habilidades
+- Son bastantes ingeniosos usan sus experiencias laborales y pasatiempos para implementarlo en los diseños.
+
+>diseño: Actividad creativa que tiene por fin proyectar objetos que sean útiles y estéticos.
+### El diseño no es solo los aspectos estéticos de un producto. Hay Varios tipos de diseñadores en UX:<br>
+- **Diseñadores de interacción:** diseñan la experiencia del producto y como funciona. Conectan la necesidad de los usuarios y los objetivos comerciales con lo que es factible construir.
+- **Diseñadores visuales:** Centrados en como se vera el producto. Diseñan el logotipo, ilustraciones o iconos, deciden el color, tamaño de fuente o la disposición del producto.  
+- **Diseñadores movimiento:** piensan en que sienten el usuario al utilizar el producto y cómo crear transiciones suaves en la web.
+
+## Diseñadores gráficos VS Diseñadores UX
+### ***diseñadores gráficos*** crean elementos visuales que cuentan una historia o transmiten un mensaje, también trabajan en la apariencia física de un producto.
+### ***Diseñadores UX:*** Se centran en cómo interactúan los usuarios con el producto.
+<br>
+
+### colegas con que los un diseñador se relaciona en el ambiente laboral:
+- ***Investigadores UX:*** realizan estudios y entrevistas a los usuarios.
+- ***Luego están los escritores UX:*** se encargar de escribir textos claros en los productos y que sean intuitivos para el usuario.
+- ***Diseñadores de producción:*** Son el "puente" entre los diseñadores de interacción y los ingenieros, se encargan de que el diseño inicial y final coincidan con el material  y que cuenten con los recursos(texto, imágenes y especificaciones de diseño como el estilo, color, tamaño, y el espaciado de la fuente) la hora de entregarlo al equipo de ingeniería.
+- ***Ingenieros de diseño:*** traducen intención del diseño en una experiencia funcional, como una app.
+- ***Gerentes de programas UX:*** proponen una comunicación clara y oportuna, para que el proceso de construcción de un producto útil avance sin problemas de principio a fin.<br> define objetos y redacta planes de proyectos.
+---
