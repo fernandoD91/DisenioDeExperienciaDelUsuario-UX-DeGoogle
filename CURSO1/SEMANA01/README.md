@@ -128,3 +128,22 @@
 
 <br>
 
+![investigador de ux](img/Carreras-prof-UX/UX-researcher.png)
+
+## **Investigador de UX / UX researcher.**
+
+- ### Llevan a estudios/entrevista de como el usuario usa el producto
+- ### identifican las dificultades que experimenta el usuario
+- ### Como los productos ayudan a resolver las dificultades
+- ### Investigan que tan fáciles son de usar los productos.
+
+### Los *investigadores de UX* responden las siguientes preguntas:
+- ¿ Qué problemas enfrenta el usuario?
+- ¿ El diseño del producto es fácil de usar?
+- ¿ Estaría interesado el usuario en una nueva función al diseño?
+
+### Objetivos del *UX researcher*: 
+- entender como un producto puede resolver un problema real al usuario.
+
+<br>
+
