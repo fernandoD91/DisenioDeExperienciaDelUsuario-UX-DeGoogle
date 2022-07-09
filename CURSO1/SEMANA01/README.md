@@ -60,3 +60,22 @@
 ---
 ---
 <br>
+
+## [ ** PARTE 4: Carreras profesionales en el campo de la experiencia del usuario** ](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/supplement/7o3K0/carreras-profesionales-en-el-campo-de-la-experiencia-del-usuario)
+
+### El diseño UX es un campo que cambia rápidamente y tiene una tasa de cambio de crecimiento proyectada a 10 años del 15%(Burning Glass)
+
+
+![Interaction Designer](img/Carreras-prof-UX/Interaction-Designer.png)
+## **Diseñador de interacción (interaction designer)**
+- ###  Ellos se encargan de diseñar la experiencia del producto y como funciona. Comprenden el *flujo del usuario* (la ruta que se realiza para ejecutar una tarea). ***Son un tipo especializado de diseñador de UX***
+
+### Algunas de las preguntas que responde el diseñador de interacción :
+  - #### ¿Qué debería ocurrir si un usuario toca este botón?
+  - #### ¿Cómo hacemos que realizar esta acción sea mas fácil para los usuarios?
+  - #### ¿Cómo se presentan los elementos de diseño dentro del sitio web?
+
+### Objetivo del *"interaction designer"*: no se encargan tanto de la apariencia sino, más bien, de como se puede hacerlo mas fácil de navegar e interactuar.
+
+<br>
+
