@@ -201,3 +201,22 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 <br>
 
+![Conversation designer](img/Carreras-prof-UX/conversation-designer.png)
+## **Diseñador de conversaciones / Conversation designer**
+
+- ### Interfaces de conversación, se encuentra en los asistentes virtuales como google assistant,Siri. Sistemas de respuesta de voz, chatbot, sistemas de navegación para automóviles...
+- ### Su tarea es lograr conversaciones naturales, fluidas e intuitivas. a traves de la investigación de los usuarios, la psicología, el conocimiento técnico y la lingüística. Así desarrollan el tipo de persona/personalidad de la voz  asi como el flujo y el dialogo de interacción
+
+### Los *Conversation designer* responde preguntas como:
+- ¿Cuál es el texto y el flujo ideal en función de los usuarios del producto, la tarea a realizar y el contexto de la conversación?
+- ¿La personalidad del asistente virtual parece genuina y atractiva y refleja los valores de la marca?
+- ¿Cómo se integra la conversación con los elementos que se muestra en pantalla?
+- ¿Ofrece el asistente virtual una experiencia coherente, fácil de usar y útil en cada paso del proceso?
+
+## **Explora las carreras profesionales en el campo de la UX**
+- A la hora de trabajar nos colaboraremos con profesionales enumerados en esta sección para crear productos innovadores y hermosos para la gente le encante utilizar!
+---
+---
+---
+<br>
+
