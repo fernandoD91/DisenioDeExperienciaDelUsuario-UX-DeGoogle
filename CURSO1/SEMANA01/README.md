@@ -91,3 +91,20 @@
 ### Objetivo del *Visual designer*: deleitar al usuario con diseños que los ***inspiren, atraigan y entusiasmen***. Son un tipo especializado de diseñador de UX.
 
 <br>
+
+![diseñador de movimiento](img/Carreras-prof-UX/motion-designer.png)
+## **Diseñador de movimiento / Motion Designer**
+- ### Analizan al usuario que siente ante el desplazamiento del producto
+- ### Como crear transiciones fluidas en app/web
+- ### Crean animaciones o efectos visuales para dar vida a sus ideas de diseños 
+- ### Son un tipo especializado de diseñador de UX.
+
+### El Motion Designer responde preguntas como:
+- ¿Cómo debe ser la transición entre distintas páginas de una aplicación?
+- ¿Cómo mostramos la conexión entre estas acciones?
+- ¿Cómo podemos crear una animación atractiva que  nos ayude a contar nuestra historia?
+
+### Objetivo de *Diseñador de movimiento*: Se centran en los en los elementos del diseño con movimiento y NO en los estáticos tradicionales.
+
+<br>
+
