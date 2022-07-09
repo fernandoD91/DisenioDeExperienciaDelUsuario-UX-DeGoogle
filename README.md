@@ -23,6 +23,7 @@
    - empezar a crear un portfolio en línea donde puedas mostrar tus próximos trabajos;
    - unirte a comunidades en línea relacionadas con la UX y participar en ellas.
 <br>
+
 ---
 
 ## CURSO 2: Primeros pasos en el proceso de diseño de UX

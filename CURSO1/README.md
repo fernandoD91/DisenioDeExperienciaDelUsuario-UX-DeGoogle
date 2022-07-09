@@ -1,7 +1,7 @@
 # CURSO 1: Aspectos básicos del diseño de la experiencia del usuario
 ## Introducción al diseño de la experiencia del usuario
 
-### Los diseñadores de la experiencia del usuario (UX) se centran en la experiencia que tienen los usuarios cuando usan productos como sitios web, aplicaciones y objetos físicos. Los diseñadores de UX hacen que esas interacciones cotidianas sean útiles, agradables y accesibles.
+#### Los diseñadores de la experiencia del usuario (UX) se centran en la experiencia que tienen los usuarios cuando usan productos como sitios web, aplicaciones y objetos físicos. Los diseñadores de UX hacen que esas interacciones cotidianas sean útiles, agradables y accesibles.
 
 ## Objetivos de aprendizaje
    - Identificar y comparar las distintas disciplinas dentro del campo de la UX
@@ -24,18 +24,19 @@
 ---
 
 ## Aspectos básicos del diseño de la experiencia del usuario
-### gracias a los deseñadores de UX, la tecnología es más fácil y agradable de usar. 
-### "la experiencia de usuario" fue acuñada en 1990, por el psicólogo cognitivo Don Norman, aunque el termine es reciente, esto se impleto ahce miles de años en china con la practica "Feng Shui".
-### En la tecnología se centra cómo las personas usan los productos o interactuan con ellos. En el curso veremos:
+#### gracias a los deseñadores de UX, la tecnología es más fácil y agradable de usar. 
+#### "la experiencia de usuario" fue acuñada en 1990, por el psicólogo cognitivo Don Norman, aunque el termine es reciente, esto se impleto ahce miles de años en china con la practica "Feng Shui".
+#### En la tecnología se centra cómo las personas usan los productos o interactuan con ellos. En el curso veremos:
 - Bases del diseño de UX. Por que es tan importante en las empresas
 - Términos, herramientas y frameworks que utilizan los diseñadores de UX
 - Cómo planificar y ejecutar sprint de diseño, como colaborar en proyectos.
 - Contruir presencia profesional en línea. Portfolio.
 <br>
+
 ---
 ## Cronograma
-### Semana 1: Introducción al diseño de la exp. del usuario.
-### Semana 2: Términos, herramientas y frameworks comunes en el diseño de UX.
-### Semana 3: Participar en sprints de diseño.
-### Semana 4: Construir una presencia profesional.
+#### Semana 1: Introducción al diseño de la exp. del usuario.
+#### Semana 2: Términos, herramientas y frameworks comunes en el diseño de UX.
+#### Semana 3: Participar en sprints de diseño.
+#### Semana 4: Construir una presencia profesional.
 ---
