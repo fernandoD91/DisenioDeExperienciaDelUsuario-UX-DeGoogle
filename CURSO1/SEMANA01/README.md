@@ -165,3 +165,22 @@
 
 <br>
 
+![Gerente de programas de ux](img/Carreras-prof-UX/UX-program-manager.png)
+
+## **Gerente de programas de UX /UX program manager.**
+
+- ### Garantiza una comunicación clara y oportuna para que el proceso de creación de un producto útil avance sin problemas.
+- ### Realiza tareas como: 
+  - definir objetivos.
+  - Redactar planes de proyectos.
+  - Asignar los recursos del equipo.
+
+### Los *UX program manager* responden preguntas como:
+- ¿Cuáles son los objetivos generales de este proyecto y cuál es el plan para alcanzarlos?
+- ¿Cómo podemos crear y mejorar los procesos dentro del equipo?
+
+### Objetivos del *UX program manager:*
+Trabaja en todos los departamentos para que se cumpla todos los objetivos propuestos para la buena experiencia de usuario  y se tenga en cuenta en todo el ciclo de vida del proyecto
+
+<br>
+
