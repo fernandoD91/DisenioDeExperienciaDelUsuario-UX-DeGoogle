@@ -147,3 +147,21 @@
 
 <br>
 
+![UX writer](img/Carreras-prof-UX/ux-writer.png)
+## **Escritor de UX (UX writer).**
+
+- ### Hacer texto claro de un producto. Para una experiencia intuitiva.
+- ### Ayudan a definir una voz y personalidad de una marca.
+- ### Escriben etiquetas de los botones
+- ### Determinar el tono de texto de una app/web
+
+### Los *UX writer* responde preguntas como:
+- ¿Qué palabras se deben usar para comunicar esta idea con claridad?
+- ¿El tono de esta app debe ser amigable o técnico?
+- ¿Qué debería decir la etiqueta de este botón?
+
+### Objetivos del *"Escritor de UX":* 
+  - Presenta el contenido de forma que sea fácil de leer para todos los usuarios.
+
+<br>
+
