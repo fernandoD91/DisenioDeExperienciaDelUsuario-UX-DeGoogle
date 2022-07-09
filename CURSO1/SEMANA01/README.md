@@ -184,3 +184,20 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 <br>
 
+![Ingeniero de UX](img/Carreras-prof-UX/ux-engineer.png)
+## **Ingeniero de UX / UX engineer**
+
+- ### Traducen la intención del en una experiencia funcional, como una app o una web.
+- ### Ayudan a los equipos UX a saber si los diseños son intuitivos o técnicamente factibles.
+
+### Los *ingenieros de UX* responden preguntas como:
+- ¿Cómo implementamos cada interacción?
+- ¿Cómo implementamos este diseño de forma que se mantenga fiel a su intención original?
+- ¿Cómo podemos explorar alternativas para determinar la forma de ofrecer la mejor experiencia al usuario?
+
+### Objetivos de los *UX engineer:*
+  - Materializan el diseño y el desarrollo.
+  - Dan vida a productos conceptuales.
+
+<br>
+
