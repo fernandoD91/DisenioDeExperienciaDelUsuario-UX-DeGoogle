@@ -79,3 +79,15 @@
 
 <br>
 
+![Diseñador visual](img/Carreras-prof-UX/visual-designer.png)
+## **Diseñador Visual / Visual designer**
+
+- ### Ellos se centrar en cómo se ve un producto/una tecnología.Pueden diseñar logotipos, ilustraciones e íconos -> pueden decidir el color,tamaño y ubicación de la fuente.<br> 
+- ### Se centran en el diseño de una pagina/pantalla de una web para que sea agradable y atractiva a la vista.
+### Algunas preguntas que responde el Visual designer son:
+
+  -  ¿Qué tipo de estilo visual deben tener los íconos para que se ajusten a las directrices de marca del producto?
+  - ¿Qué color y fuente debemos usar en este botón?
+### Objetivo del *Visual designer*: deleitar al usuario con diseños que los ***inspiren, atraigan y entusiasmen***. Son un tipo especializado de diseñador de UX.
+
+<br>
