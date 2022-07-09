@@ -108,3 +108,23 @@
 
 <br>
 
+![vr/ar designer](img/Carreras-prof-UX/VR_AR-designer.png)
+## **Diseñador de VR/AR (VR/AR designer - realidad virtual y realidad aumentada**)
+
+- ### Los diseñadores de realidad virtual (VR) y realidad aumentada (AR) crean productos que proporcionan al usuario experiencias envolventes que transgreden los límites del mundo físico. 
+- ### En la **realidad virtual**, se emplea un visor que reemplaza la visión natural del usuario, bloquea su entorno físico y lo sumerge en un mundo completamente virtual
+
+<br>
+
+- ### La **Realidad aumentada** usa al mundo físico y agrega elementos virtuales a traves de una pantalla. En este caso los usuarios son consientes de su entorno pero si realidad *aumenta* 
+
+### El VR/AR designer responde preguntas como:
+- ¿Cómo podemos crear una experiencia del usuario que aproveche el espacio tridimensional? 
+- ¿Podría esta acción marear al usuario?
+
+### Objetivo del *VR/AR designer*: 
+- garantizar que los usuarios se sientan cómodos al sumergirse en la realidad virtual/aumentada 
+- Deben tener en cuenta cada detalle, desde el sonido hasta la iluminación.
+
+<br>
+
