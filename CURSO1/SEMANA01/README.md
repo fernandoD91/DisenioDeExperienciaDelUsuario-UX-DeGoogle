@@ -404,3 +404,8 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 ---
 <br>
 
+## Parte 8 [Características de una buena experiencia del usuario](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/supplement/IXXnj/caracteristicas-de-una-buena-experiencia-del-usuario)
+
+### En un video anterior, «Aspectos básicos del diseño de UX», Estas características de un producto —fácil de usar, equitativo, agradable y útil— pueden ayudarte a evaluar el diseño.
+
+
