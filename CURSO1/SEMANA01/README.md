@@ -291,3 +291,16 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 <br>
 
+![brainstorm](img/Ciclo-de-desarrollo-de-un-producto/brainStorm.png)
+
+#### Primera etapa del ciclo de desarrollo 
+#### **Lluvida de ideas - BrainStorm.**
+- El equipo ya conoce el problema del cliente
+- De no conocer el problema del cliente se crea un *lista de problemas* de **punto de partida**
+- Los equipos que tienen una diversidad de distintos puntos de vista, como la raza, el género, las destrezas, la estructura familiar, la edad y la etnia, suelen ser más eficaces en la lluvia de ideas. Reúnen muchas experiencias de vida diferentes. 
+- Investigar competidores y si existen productos similares.
+- Cubrir y resolver problemas actuales
+- Investigar a los competidores,usuarios y el producto para detectar problemas de diseño.
+
+<br>
+
