@@ -340,3 +340,36 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 <br>
 
+#### Cuarta etapa del ciclo de desarrollo.
+#### Test / Prueba.
+
+![test](img/Ciclo-de-desarrollo-de-un-producto/test.png)
+
+- Los ingenieros se encargar de desarrollar los prototipos para que sean igual a los diseños originales.
+- Comprueban detalles y características. Que los colores, fuentes se ajusten a la marca y podría incluir código.
+- *Tip:* Para probar el diseño previamente se podría usar *Figma* o *adobe XD* para crear prototipos.
+
+- Pasan por 3 etapas de prueba:
+    - Pruebas internas dentro de la empresa.
+    - Revisiones con los interesados.
+    - Pruebas externas con los usuarios.
+
+> Interesado:  persona con la que debes trabajar para completar el proyecto o cualquier persona que tenga algún internes en el proyecto sea dentro o fuera de la empresa.
+
+- Las pruebas las debería realizar un *investigador de UX* del equipo:
+    - **Prueba del producto internamente:** busca fallas técnicas y problemas de facilidad de uso. son ***"pruebas Alfa"***
+    - **Prueba con los interesados:** se asegura que este alineado con la empresa, cumpla los requisitos legales de accesibilidad y sigue las normas gubernamentales de privacidad.
+    - **Prueba Externa con usuarios potenciales:** averiguamos si el producto dá una buena experiencia al usuario para que sea:
+      - fácil de usar.
+      - equitativo.
+      - agradable.
+      - Útil.
+<br>Esto es conocido como ***Pruebas BETA***
+
+- Indispensable recopilar e implementar comentarios en esta etapa. Si los usuarios se sientes "frustrados" o "confundidos por el producto.
+<br> los diseñadores UX modifican y/o crean nuevas versiones realizando las pruebas nuevamente para que no haya ninguna fricción entre el cliente y el producto.
+
+### IMPORTANTE: el *ciclo de desarrollo de un producto* no es lineal, el equipo debe alternar entre el diseño y las pruebas antes de lanzar el producto.
+
+<br>
+
