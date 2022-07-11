@@ -281,3 +281,13 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 ---
 <br>
 
+## Parte 6: Lectura [El ciclo de desarrollo de un producto](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/supplement/Otp7y/el-ciclo-de-desarrollo-de-un-producto) - (Parte 2)
+
+### Cada Producto tiene una serie de pasos específicos. <br> Esto se denomina **ciclo de desarrollo del producto** y tiene cinco etapas: ***lluvia de ideas***, ***definición***, ***diseño***, ***prueba*** y ***lanzamiento***.
+
+### La etapa del ciclo de desarrollo de un producto en la que más participan los diseñadores de UX es la de diseño. También trabajan con otros miembros del equipo, como investigadores, gerentes de productos e ingenieros, durante todo el ciclo. 
+
+### **El éxito de cada etapa depende de la finalización de la etapa anterior, por lo que es importante respetar el orden.**
+
+<br>
+
