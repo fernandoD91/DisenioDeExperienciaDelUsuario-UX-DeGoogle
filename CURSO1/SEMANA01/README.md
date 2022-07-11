@@ -391,3 +391,16 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 ---
 <br>
 
+## Parte 7 Video: [Diseñar para una buena experiencia del usuario](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/lecture/NAe5U/disenar-para-una-buena-experiencia-del-usuario)
+
+- Predecir los obstáculos de los usuarios y los posibles contratiempos es clave para un buen diseño de UX.
+- Como diseñadores, tenemos que pensar en cómo mejorar la experiencia del usuario.
+-  Un buen diseño tiene en cuenta las necesidades del usuario. Para que el usuario tenga una buena experiencia, el producto debe ser ***fácil de usar, equitativo, agradable y útil***, entre otras cosas.
+- Para ofrecer una buena experiencia de usuario, un producto debe ser intuitivo y fácil de usar.
+- Cada producto debe estar diseñado para hacer que el usuario se sienta de cierta manera. 
+- Una tarea clave de los diseñadores de UX es asociar una emoción específica a la experiencia de usar el producto.
+---
+---
+---
+<br>
+
