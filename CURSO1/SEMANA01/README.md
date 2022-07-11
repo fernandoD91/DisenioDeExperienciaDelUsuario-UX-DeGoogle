@@ -373,3 +373,21 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 <br>
 
+![Launch](img/Ciclo-de-desarrollo-de-un-producto/launch.png)
+
+#### Quinta etapa del ciclo de desarrollo.
+#### Launch / Lanzamiento.
+
+- #### El producto se presenta al mundo: publicar una app; poner en linea un sitio web; etc.
+-  Se promociona el producto, se encarga el equipo de marketing de realizar publicidad y el equipo de soporte se prepara para dar ayuda al usuario.
+- #### Los gerentes de programas se reúne con el equipo multidisciplinario para reflexionar sobre el ciclo de desarrollo y hacer preguntas como:
+    - ¿Qué cosas funcionaron bien y que podría mejorarse?
+    - ¿Se alcanzaron los objetivos?
+    - ¿Se cumplieron los plazos?
+- Con un producto físico, el *lanzamiento* puede significar el fin del ciclo.
+- Con un producto digital, se puede mejorar el diseño, funcionalidad o características del producto. Por lo que se vuelve a trabajar sobre las fases de diseño para diseñar una nueva version.
+---
+---
+---
+<br>
+
