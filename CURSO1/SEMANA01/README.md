@@ -304,3 +304,25 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 <br>
 
+![Define](img/Ciclo-de-desarrollo-de-un-producto/define.png)
+
+#### Segunda etapa del ciclo de desarrollo.
+#### Define - Definición.
+
+- Reúne a 
+  - diseñadores de UX
+  - Investigadores de UX
+  - Gerentes de programas
+  - Directores de productos
+- Objetivo: Averiguar las especificaciones del producto.
+- Responde a las Preguntas:
+    - ¿Para quien es el producto?
+    - ¿Qé hará el producto?
+    - ¿Qué funciones debería incluir el producto para tener éxito?
+- Se debe definir en resolver una idea, un problema especifico.
+- El diseñador UX ayuda a enfocar la idea, pero podría ser definida por un *director de producto*.
+- Partiendo de la información de la *lluvia de ideas* se debe trabajar no suponiendo los problemas del usuario si no preguntarles directamente.
+
+<br>
+
+
