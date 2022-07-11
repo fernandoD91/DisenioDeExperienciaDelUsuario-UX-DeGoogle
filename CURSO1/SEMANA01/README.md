@@ -325,4 +325,18 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 <br>
 
+#### Tercera etapa del ciclo de desarrollo.
+#### Diseño / Design.
+
+![diseño](img/Ciclo-de-desarrollo-de-un-producto/design.png)
+
+- Momento de brillar como desarrollador UX! Desarrollamos las ideas del producto.
+- Dibujamos *esquemas* (bocetos o esbozos del producto).
+- Creamos *prototipos* (modelos iniciales de un producto que transmiten su funcionalidad).
+- *Escritores de UX* participan en el diseño definiendo como escribir las etiquetas de los botones y textos de los esquemas / bocetos.
+- Incluir todas las especificaciones del producto identificadas en la etapa "definición/define"
+- Comprobar que las partes del diseño sean intuitivas.
+- Cada tarea debe ser fácil de entender.
+
+<br>
 
