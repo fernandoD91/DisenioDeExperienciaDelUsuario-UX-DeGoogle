@@ -218,3 +218,66 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 ---
 <br>
 
+## Parte 5: video: [El ciclo de desarrollo de un producto](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/lecture/47ZzU/el-ciclo-de-desarrollo-de-un-producto#) (parte 1)
+
+#### Partiendo de que el trabajo del diseñador UX es desarrollar un producto, como una app o una web...
+#### Analicemos *el ciclo de desarrollo de un producto:*
+
+    Consiste en transformar una idea en realidad.
+    Las Tareas dentro del proyecto consisten en diferentes etapas de este ciclo.
+    Primero el equipo busca resolver algún problema: desarrollar un producto que de al usuario una buena experiencia.
+
+#### Hay cinco etapas en el desarrollo de un producto:
+  1. Lluvia de ideas / BrainStorm
+  2. Definición / Define
+  1. Diseño / Design 
+  1. Prueba / Test
+  1. Lanzamiento / Launch
+  
+### Características de cada etapa:
+
+
+1. #### Lluvia de ideas:
+    - Descubrimiento activo. 
+    - Objetivo es generar ideas del usuario y sus principales ideas y desafíos.
+    - La investigación del usuario/publico de destino es clave para conocerlos.
+    - Los ***investigadores y escritores UX*** son claves en esta etapa, realizan entrevistas al usuario y realizan investigaciones
+
+<br>
+
+2. #### Definición:
+    - Se utiliza los hallazgos de la lluvia de ideas para enfocar el proceso
+    - Se identifica formas concretas en las que el producto afectará al usuario
+    - Se analizara detalles específicos del producto:
+        - A quién esta destinado.
+        - Qué debería hacer.
+        - Y que características debería tener para obtener éxito.
+    - Objetivo principal: esbozar objetivos/problemas que dará respuesta el diseño del producto.
+
+<br>
+
+3. #### Diseño / Design
+
+    - Como las 2 primeras etapas son de ***Preparación*** y ***Planificación***, comprendemos al usuario, que problemas / desafíos resuelve el diseño.
+    - Generamos el diseño centrado en el usuario. Guiones gráficos, Bocetos de exp de usuario, esbozar la distribución del contenido.
+    - Crear prototipos, aprobación de la funcionalidad del diseño
+
+<br>
+
+4. #### Pruebas / Test
+
+    - evaluación del diseño según comentarios de usuarios.
+    - Probar el diseño con usuarios reales para enfocarse en ellos, luego en el diseño
+    - refinamos,mejoramos y vemos lo interactivo del diseño.
+    - Diseñadores UX e ingenieros de front-end interactúan para crear el producto final y satisfaces el usuario.
+
+5. #### Lanzamiento / Launch
+
+    - Lanzar Compartir una version terminada con el publico.(sitio web,google play store etc.)
+    - Se seguirá mejorando el diseño según el feedback de los usuarios
+    - Se podría volver a repetir el ciclo.
+---
+---
+---
+<br>
+
