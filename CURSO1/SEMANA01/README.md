@@ -451,3 +451,26 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
   <br>
 
+  ![useful](img/CaracteriscasDeBUenaExpDelUsuario/useful.png)
+
+  #### **Útil / Useful.**
+  
+  > *Útil/Useful:* significa que resuelve los problemas de usuario.
+
+- Resuelve intencionalmente un problema del usuario que el identificado ha identificado.
+- *"util"* y *"fácil de usar"* tiene conceptos relacionados pero son diferentes.
+- ***"fácil de usar":*** el producto funciona bien y es simple de usar.
+- ***"util":*** específicamente resuelve los problemas al usuario.
+- Preguntas para evaluar que tan ***útil*** es la ux de un producto:
+  - ¿El diseño añade valor a la experiencia del usuario? 
+  - ¿Soluciona el diseño un problema del usuario? 
+  - ¿El diseño ayuda al usuario a alcanzar un objetivo específico?
+
+<br>
+
+- [artículo sobre el buen diseño del equipo de Google Design para descubrir la genialidad detrás del diseño de objetos cotidianos que quizás hayas pasado por alto.](https://design.google/library/good-design/)
+---
+---
+---
+<br>
+
