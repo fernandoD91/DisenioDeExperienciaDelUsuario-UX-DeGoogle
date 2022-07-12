@@ -436,3 +436,18 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 <br>
 
+![agradable](img/CaracteriscasDeBUenaExpDelUsuario/enjoyable.png)
+
+#### **Agradable / enjoyable.**
+
+> *agradable:* significa que el diseño deleita al usuario.
+
+- El diseño refleja lo que el usuario piensa o siente y crea una conexión positiva con él.
+- Si bien el diseño no hará que el producto funcione correctamente pero lo acompaña y lo complementa y brinda al usuario una mejor sensación sobre la experiencia.
+- Preguntas para evaluar que tan *agradable* es la UX de un producto:
+  - ¿Hay aspectos del diseño que tengan en cuenta los sentimientos del usuario? 
+  - ¿El diseño deleita al usuario?
+  - ¿El diseño mantiene la atención del usuario durante toda su experiencia? 
+
+  <br>
+
