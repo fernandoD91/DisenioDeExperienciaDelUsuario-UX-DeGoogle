@@ -422,3 +422,17 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 <br>
 
+![Equitable](img/CaracteriscasDeBUenaExpDelUsuario/equitable.png)
+
+#### **Equitativo / equitable.**
+
+> Producto equitativo: diseño útil para personas con diversas capacidades y antecedentes.
+
+- el diseño del producto responde a las necesidades de un público diverso y garantiza una experiencia de alta calidad a todos los usuarios.
+- La equidad consiste en proporcionar a las personas las herramientas que necesitan para alcanzar sus objetivos y tener una mejor calidad de vida.
+- Preguntas para evaluar la *equidad* de la UX de un producto:
+  - ¿Se tienen en cuenta las necesidades de un grupo diverso de usuarios?
+  - ¿Aborda el diseño del producto las necesidades de los grupos tradicionalmente subrepresentados y excluidos?
+
+<br>
+
