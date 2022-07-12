@@ -408,4 +408,17 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 
 ### En un video anterior, «Aspectos básicos del diseño de UX», Estas características de un producto —fácil de usar, equitativo, agradable y útil— pueden ayudarte a evaluar el diseño.
 
+<br>
+
+![Usable](img/CaracteriscasDeBUenaExpDelUsuario/FacilDeUsar.png)
+
+#### **Fácil de usar / Usable.**
+
+>  ***fácil de usar:*** significa que el diseño, la estructura y el propósito del producto son claros y que el producto es fácil de entender. 
+- Preguntas para evaluar que tan *fácil es usar* es un producto:
+  - ¿Todas las partes del diseño son fáciles de encontrar? 
+  - ¿Es fácil entender la funcionalidad del diseño? 
+  - ¿Pueden los usuarios realizar tareas específicas dentro del diseño?
+
+<br>
 
