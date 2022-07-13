@@ -474,3 +474,20 @@ Trabaja en todos los departamentos para que se cumpla todos los objetivos propue
 ---
 <br>
 
+## PARTE 9 [Identificar una buena experiencia del usuario](https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux/ungradedWidget/M4Imk/identificar-una-buena-experiencia-del-usuario)
+
+
+
+![FácilDeUsar](img/Identificar-una-buena-UX/facilDeUsar.png)
+<br>
+
+![FácilDeUsar](img/Identificar-una-buena-UX/Equitativo.png)
+<br>
+
+![FácilDeUsar](img/Identificar-una-buena-UX/Agradable.png)
+<br>
+
+![FácilDeUsar](img/Identificar-una-buena-UX/Util.png)
+<br>
+
+![FácilDeUsar](img/Identificar-una-buena-UX/Listo.png)
